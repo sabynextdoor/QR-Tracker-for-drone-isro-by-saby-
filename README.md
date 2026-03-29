@@ -1,4 +1,4 @@
-# ISRO IROUC 2026 - QR Drone Detector
+# ISRO IROUC 2026 - QR Drone Detector by saravanan
 
 [![Python Version](https://img.shields.io/badge/python-3.7%2B-blue.svg)](https://www.python.org/downloads/)
 [![OpenCV Version](https://img.shields.io/badge/opencv-4.5%2B-green.svg)](https://opencv.org/)
@@ -33,6 +33,4 @@ git clone https://github.com/yourusername/isro-qr-drone-detector.git
 cd isro-qr-drone-detector
 pip install -r requirements.txt
 
-python main.py<img width="1597" height="932" alt="fff" src="https://github.com/user-attachments/assets/6bfaa287-5128-42af-bab7-18500b08e297" />
-<img width="1560" height="830" alt="image" src="https://github.com/user-attachments/assets/6d4677a6-899e-4140-8dcb-21fbee85e91d" />
-
+<img width="1560" height="830" alt="Image" src="https://github.com/user-attachments/assets/8516ac0e-63ce-47e4-89b8-4f9134956c65" />
