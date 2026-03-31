@@ -9,7 +9,7 @@ A real-time QR code detection system with seed image matching and orientation fe
 
 https://github.com/user-attachments/assets/51a339ec-44e0-4f77-94e9-aa5939c71397
 
-TO INSTALL THIS DOWNLOAD AND USE THE TEST.PY FILE AND LAUNCH IN VSCODE
+TO INSTALL THIS DOWNLOAD AND USE THE Drone_QR_angular_BY_SABY.py  FILE AND LAUNCH IN VSCODE
 
 ## 🚀 Features
 
