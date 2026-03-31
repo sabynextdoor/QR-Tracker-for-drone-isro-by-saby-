@@ -9,7 +9,7 @@ A real-time QR code detection system with seed image matching and orientation fe
 
 https://github.com/user-attachments/assets/51a339ec-44e0-4f77-94e9-aa5939c71397
 
-
+TO INSTALL THIS DOWNLOAD AND USE THE TEST.PY FILE AND LAUNCH IN VSCODE
 
 ## 🚀 Features
 
@@ -453,6 +453,7 @@ Made with ❤️ for ISRO IROUC 2026 by saby
 Last Updated: March 2026
 
 text
+TO INSTALL THIS DOWNLOAD AND USE THE TEST.PY FILE AND LAUNCH IN VSCODE
 
 This README is comprehensive and includes:
 - Detailed feature list
